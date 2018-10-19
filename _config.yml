@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Who Moved My Tea Egg
-subtitle: 谁动了我的茶叶蛋
+title: TeaEgg
+subtitle: 
 description: About my love and the others.
 author: Zeu Chan
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year-:month-:day-:title.html
 permalink_defaults:
 
 # Directory
